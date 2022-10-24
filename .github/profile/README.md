@@ -1,8 +1,8 @@
-<p align="left"><a href="https://oneofftech.de" target="_blank"><img src="https://raw.githubusercontent.com/OneOffTech/.github/main/art/oneofftech-logo.svg" width="300"></a></p>
+<p align="left"><a href="https://oneofftech.de" target="_blank"><img src="https://raw.githubusercontent.com/OneOffTech/.github/main/art/oneofftech-logo.svg" width="260"></a></p>
 
 ## About OneOffTech
 
-[OneOffTech](https://oneofftech.de) is a Berlin-based international consulting company focusing on knowledge management, digital technologies and organizational development. We trust and develop Open Source projects as a way of thinking, gathering expertise spanning from computer science and software development to cultural anthropology and philosophy. We follow the systemic approach for our advisory services and use agile frameworks for project management and software development.
+[OneOff-Tech](https://oneofftech.de) is a Berlin-based, international consulting company focusing on knowledge management, digital technologies (ICT) assessments, and organizational development. We trust and develop Open Source projects as a way of thinking, gathering expertise spanning from computer science and software development to cultural anthropology and philosophy. We follow the systemic approach for our advisory services and use agile methodologies for project management and software development. 
 
 As part of our consulting activities we have conducted:
 
