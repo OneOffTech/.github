@@ -1,6 +1,6 @@
 <p align="left"><a href="https://oneofftech.de" target="_blank"><img src="https://raw.githubusercontent.com/OneOffTech/.github/main/art/oneofftech-logo.svg" width="200"></a></p>
 
-## About OneOffTech
+## About OneOff-Tech
 
 [OneOff-Tech](https://oneofftech.de) is an international company based in Berlin that focuses on bridging the gap between knowledge management, digital technologies (ICT) and organisational development.
 
